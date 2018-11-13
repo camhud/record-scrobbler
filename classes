@@ -1,0 +1,19 @@
+# classes
+  - responsibilities
+  
+* discogs account
+  - link account
+  - unlink account
+* collection
+  - get/update collection
+  - search within
+  - sort by artist
+  - sort by album
+  - get random item
+* last.fm account
+  - link account
+  - unlink account
+* record
+  - scrobble
+  - favorite
+  - unfavorite
