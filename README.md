@@ -20,3 +20,4 @@ Record scrobbler adds all releases in a discogs collection to a GUI menu, and li
 * manually update discogs collection
 * cache scrobbles when offline
 * manually set album cover
+* imbed lyrics from genius
