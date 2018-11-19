@@ -1,11 +1,13 @@
-last.fm API:
-https://www.last.fm/api
-
-Discogs API:
-https://www.discogs.com/developers/
-https://github.com/discogs/discogs_client
-* example:
-  https://github.com/jesseward/discogs-oauth-example
+APIs:
+  -Tutorial:
+    https://www.dataquest.io/blog/python-api-tutorial/
+  -last.fm API:
+    https://www.last.fm/api
+  -Discogs API:
+    https://www.discogs.com/developers/
+    https://github.com/discogs/discogs_client
+  * example:
+    https://github.com/jesseward/discogs-oauth-example
 
 Website:
-https://www.probytes.net/blog/use-python-make-websites/
+  https://www.probytes.net/blog/use-python-make-websites/
