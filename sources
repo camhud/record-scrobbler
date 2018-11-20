@@ -4,10 +4,12 @@ APIs:
   -last.fm API:
     https://www.last.fm/api
   -Discogs API:
-    https://www.discogs.com/developers/
-    https://github.com/discogs/discogs_client
-  * example:
-    https://github.com/jesseward/discogs-oauth-example
+    * https://www.discogs.com/developers/
+    * https://github.com/discogs/discogs_client
+    * example:
+      https://github.com/jesseward/discogs-oauth-example
+  -Query Strings:
+    http://www.compciv.org/guides/python/how-tos/creating-proper-url-query-strings/
 
 Website:
   https://www.probytes.net/blog/use-python-make-websites/
