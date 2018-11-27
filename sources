@@ -8,6 +8,7 @@ APIs:
     * https://github.com/discogs/discogs_client
     * example:
       https://github.com/jesseward/discogs-oauth-example
+    * https://github.com/Tosha1409/discogs_client_example_Python3/blob/master/discogs_client_example.py
   -Query Strings:
     http://www.compciv.org/guides/python/how-tos/creating-proper-url-query-strings/
 
