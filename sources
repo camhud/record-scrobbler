@@ -3,6 +3,7 @@ APIs:
     https://www.dataquest.io/blog/python-api-tutorial/
   -last.fm API:
     https://www.last.fm/api
+    https://github.com/alastair/scrobbyl/blob/master/lastfm.py
   -Discogs API:
     * https://www.discogs.com/developers/
     * https://github.com/discogs/discogs_client
